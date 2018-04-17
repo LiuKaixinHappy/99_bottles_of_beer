@@ -1,3 +1,3 @@
 const main = require('./main/main');
 
-main.show_beer_song(63);
+main.show_beer_song(1);
